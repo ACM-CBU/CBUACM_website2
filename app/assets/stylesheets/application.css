@@ -23,7 +23,7 @@
  }
 
  .gold {
- 	background-color: #9f7813;
+ 	background-color: #F5C964;
  }
 
  .light-gray {
@@ -34,6 +34,14 @@
  	background-color: #4d4d4d;
  }
 
- .maj-head-dash {
+ .maj-head-box {
  	height: 60px;
+ 	border-radius: 7.5px;
+ }
+
+ .maj-head-dash {
+ 	height: 55px;
+ 	width: calc(100% - 5px);
+ 	border: dashed #4d4d4d 2px;
+ 	border-radius: 5px;
  }
