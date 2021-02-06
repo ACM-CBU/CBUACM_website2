@@ -27,6 +27,8 @@
  }
 
  .light-gray {
+ 	background-color: #e6e6e6;
+ 	color: #4d4d4d;
  }
 
  .dark-gray {
@@ -34,7 +36,9 @@
  }
 
  .maj-head-box {
+ 	top: -15px;
  	height: 60px;
+ 	width: 240px;
  	border-radius: 7.5px;
  	background-color: #e6e6e6;
  }
