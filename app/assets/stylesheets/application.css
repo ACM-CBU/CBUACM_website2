@@ -13,3 +13,27 @@
  *= require_tree .
  *= require_self
  */
+
+ .blue-faded {
+ 	background-color: rgba(8, 40, 130, 0.7);
+ }
+
+ .blue {
+ 	background-color: rgba(8, 40, 130, 1.0);
+ }
+
+ .gold {
+ 	background-color: #9f7813;
+ }
+
+ .light-gray {
+ 	background-color: #e6e6e6;
+ }
+
+ .dark-gray {
+ 	background-color: #4d4d4d;
+ }
+
+ .maj-head-dash {
+ 	height: 60px;
+ }
