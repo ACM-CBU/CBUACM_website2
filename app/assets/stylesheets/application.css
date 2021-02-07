@@ -37,7 +37,7 @@
 
  .maj-head-box {
  	position: absolute;
- 	top: -15px;
+ 	top: -20px;
  	height: 60px;
  	width: 400px;
  	border-radius: 7.5px;
@@ -46,8 +46,19 @@
  }
 
  .maj-head-dash {
+ 	position: absolute;
+ 	top: 2.5px;
+ 	left: 2.5;
  	height: 55px;
  	width: calc(100% - 5px);
  	border: dashed #4d4d4d 2px;
  	border-radius: 5px;
+ }
+
+ .banner-width {
+ 	width: 800px;
+ }
+
+ .content-width {
+ 	width: 775px;
  }
