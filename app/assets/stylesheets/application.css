@@ -74,7 +74,7 @@
   .min-head-box {
   	position: absolute;
   	z-index: 10;
- 	top: -10px;
+ 	top: -7.5px;
  	height: 35px;
  	width: 275px;
  	border: solid #4d4d4d 1px;
