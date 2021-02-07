@@ -36,11 +36,13 @@
  }
 
  .maj-head-box {
+ 	position: absolute;
  	top: -15px;
  	height: 60px;
- 	width: 240px;
+ 	width: 400px;
  	border-radius: 7.5px;
  	background-color: #e6e6e6;
+ 	box-shadow: 5px 5px #4d4d4d;
  }
 
  .maj-head-dash {
