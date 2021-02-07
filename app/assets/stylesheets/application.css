@@ -37,7 +37,7 @@
 
  .maj-head-box {
  	position: absolute;
- 	top: -20px;
+ 	top: -15px;
  	height: 65px;
  	width: 360px;
  	border-radius: 7.5px;
@@ -49,7 +49,7 @@
  .maj-head-dash {
  	top: 2.5px;
  	height: 60px;
- 	width: 395px;
+ 	width: 355px;
  	border: dashed #4d4d4d 2px;
  	border-radius: 5px;
  	justify-content: center;
@@ -73,9 +73,10 @@
   .min-head-box {
  	top: 2.5px;
  	height: 45px;
- 	width: 375px;
+ 	width: 275px;
  	border: solid #4d4d4d 1px;
  	border-radius: 5px;
+ 	background-color: #e6e6e6;
  	justify-content: center;
  	align-items: center;
  }
