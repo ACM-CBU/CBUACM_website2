@@ -47,11 +47,17 @@
  }
 
  .maj-head-dash {
- 	left: 2.5;
+ 	top: 2.5px;
  	height: 55px;
  	width: calc(100% - 5px);
  	border: dashed #4d4d4d 2px;
  	border-radius: 5px;
+ }
+
+ .banner {
+ 	height: 30px;
+ 	overflow: visible;
+ 	background-color: #F5C964;
  }
 
  .banner-width {
