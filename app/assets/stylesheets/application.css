@@ -37,6 +37,7 @@
 
  .maj-head-box {
  	position: absolute;
+ 	z-index: 10;
  	top: -15px;
  	height: 65px;
  	width: 360px;
@@ -72,6 +73,7 @@
 
   .min-head-box {
   	position: absolute;
+  	z-index: 10;
  	top: -10px;
  	height: 35px;
  	width: 275px;
