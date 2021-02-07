@@ -48,7 +48,7 @@
  .maj-head-dash {
  	top: 2.5px;
  	height: 60px;
- 	width: calc(100% - 5px);
+ 	width: 395px;
  	border: dashed #4d4d4d 2px;
  	border-radius: 5px;
  }
