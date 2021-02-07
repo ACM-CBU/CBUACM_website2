@@ -46,8 +46,6 @@
  }
 
  .maj-head-dash {
- 	position: absolute;
- 	top: 2.5px;
  	left: 2.5;
  	height: 55px;
  	width: calc(100% - 5px);
@@ -56,9 +54,9 @@
  }
 
  .banner-width {
- 	width: 700px;
+ 	width: 800px;
  }
 
  .content-width {
- 	width: 675px;
+ 	width: 760px;
  }
