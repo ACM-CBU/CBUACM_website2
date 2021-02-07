@@ -38,8 +38,8 @@
  .maj-head-box {
  	position: absolute;
  	top: -20px;
- 	height: 60px;
- 	width: 500px;
+ 	height: 65px;
+ 	width: 400px;
  	border-radius: 7.5px;
  	background-color: #e6e6e6;
  	box-shadow: 5px 5px #4d4d4d;
@@ -47,7 +47,7 @@
 
  .maj-head-dash {
  	top: 2.5px;
- 	height: 55px;
+ 	height: 60px;
  	width: calc(100% - 5px);
  	border: dashed #4d4d4d 2px;
  	border-radius: 5px;
