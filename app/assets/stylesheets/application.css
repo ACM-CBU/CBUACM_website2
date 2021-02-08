@@ -79,15 +79,15 @@
  }
 
  .banner-width {
- 	width: var(--banner-width);
+ 	width: 810;
  }
 
  .content-width {
- 	width: var(--content-width);
+ 	width: 790;
  }
 
  .spacer-width {
- 	width: var(--spacer-width);
+ 	width: 830;
  }
 
   .min-head-box {
