@@ -17,6 +17,10 @@
  body {
  	font-family: "Ubuntu", sans-serif;
  	color: black;
+
+ 	--content-width: 790;
+ 	--banner-width: calc(var(--content-width)+20px);
+ 	--spacer-width: calc(var(--content-width)+40px);
  }
 
  a:hover {
@@ -75,15 +79,15 @@
  }
 
  .banner-width {
- 	width: 810px;
+ 	width: var(--banner-width);
  }
 
  .content-width {
- 	width: 790px;
+ 	width: var(--content-width);
  }
 
  .spacer-width {
- 	width: 830px;
+ 	width: var(--spacer-width);
  }
 
   .min-head-box {
