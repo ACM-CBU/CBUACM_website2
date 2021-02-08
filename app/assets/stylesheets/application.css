@@ -14,6 +14,10 @@
  *= require_self
  */
 
+ body {
+ 	font-family: "Playfair Display";
+ }
+
  .blue-faded {
  	background-color: rgba(8, 40, 130, 0.7);
  }
@@ -45,6 +49,7 @@
  	background-color: #e6e6e6;
  	box-shadow: 0px 0px 3px #4d4d4d;
  	align-items: center;
+ 	text-align: center;
  }
 
  .maj-head-dash {
@@ -69,6 +74,10 @@
 
  .content-width {
  	width: 790px;
+ }
+
+ .spacer-width {
+ 	width: 820px;
  }
 
   .min-head-box {
