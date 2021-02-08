@@ -18,7 +18,7 @@
  	font-family: "Ubuntu", sans-serif;
  	color: black;
 
- 	--content-width: 790;
+ 	--content-width: 790px;
  	--banner-width: calc(var(--content-width)+20px);
  	--spacer-width: calc(var(--content-width)+40px);
  }
