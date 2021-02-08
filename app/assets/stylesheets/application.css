@@ -15,7 +15,12 @@
  */
 
  body {
- 	font-family: "Playfair Display";
+ 	font-family: "Playfair Display", serif;
+ }
+
+ a:hover {
+ 	color: initial;
+ 	text-decoration: none;
  }
 
  .blue-faded {
@@ -77,7 +82,7 @@
  }
 
  .spacer-width {
- 	width: 820px;
+ 	width: 830px;
  }
 
   .min-head-box {
