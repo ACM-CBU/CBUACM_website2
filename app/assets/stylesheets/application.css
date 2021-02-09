@@ -15,7 +15,7 @@
  */
 
  body {
- 	font-family: "Ubuntu", sans-serif;
+ 	font-family: "Ubuntu", sans-serif !important;
  	color: black;
 
  	--content-width: 790px;
@@ -92,7 +92,7 @@
 
   .min-head-box {
   	position: absolute;
-  	z-index: 10;
+  	z-index: 5;
  	top: -3px;
  	height: 26px;
  	width: 275px;
@@ -102,4 +102,10 @@
  	box-shadow: 0px 0px 3px #4d4d4d;
  	justify-content: center;
  	align-items: center;
+ }
+
+ .member-content-box {
+ 	border: solid #4d4d4d 1px;
+ 	border-radius: 5px;
+ 	background-color: 
  }
