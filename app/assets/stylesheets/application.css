@@ -23,7 +23,7 @@
  	--spacer-width: calc(var(--content-width)+40px);
  }
 
- a:hover {
+ a a:hover {
  	color: initial;
  	text-decoration: none !important;
  }
@@ -107,5 +107,5 @@
  .member-content-box {
  	border: solid #4d4d4d 1px;
  	border-radius: 5px;
- 	background-color: 
+ 	background-color: #e6e6e6;
  }
