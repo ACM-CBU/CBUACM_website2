@@ -21,6 +21,12 @@
  	--content-width: 790px;
  	--banner-width: calc(var(--content-width)+20px);
  	--spacer-width: calc(var(--content-width)+40px);
+
+ 	background-image: url("https://i.pinimg.com/originals/75/82/d9/7582d92b7f85be6500615e51a2159ebe.jpg");
+ 	background-size: cover;
+ 	background-attachment: fixed;
+ 	background-blend-mode: hard-light;
+ 	background-position: center;
  }
 
  a a:hover {
