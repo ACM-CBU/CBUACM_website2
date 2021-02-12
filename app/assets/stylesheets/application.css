@@ -18,7 +18,7 @@
  	font-family: "Ubuntu", sans-serif !important;
  	color: black !important;
 
- 	--content-width: 790px;
+ 	--content-width: 890px;
  	--banner-width: calc(var(--content-width)+20px);
  	--spacer-width: calc(var(--content-width)+40px);
 
@@ -29,7 +29,9 @@
  	background-position: center;
  }
 
- a a:hover {
+
+
+ a:hover {
  	color: initial;
  	text-decoration: none !important;
  }
@@ -56,7 +58,7 @@
  }
 
  .maj-head-box {
- 	position: absolute;
+ 	position: relative;
  	z-index: 10;
  	top: -17px;
  	height: 65px;
@@ -85,15 +87,15 @@
  }
 
  .banner-width {
- 	width: 810px;
+ 	width: 860px;
  }
 
  .content-width {
- 	width: 790px;
+ 	width: 840px;
  }
 
  .spacer-width {
- 	width: 830px;
+ 	width: 880px;
  }
 
   .min-head-box {

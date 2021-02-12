@@ -2,8 +2,8 @@
   <div class="row blue-faded" style="height: 45px;"></div>
 
   <div id="menu-container" class="row d-flex justify-content-center gold banner">
-    <div id="menu-box" class="d-flex justify-content-center banner-width">
-      <div id="logo-container" class="col-6 d-flex justify-content-center">
+    <div id="menu-box" class="col-sm d-flex justify-content-center banner-width">
+      <div id="logo-container" class="d-flex justify-content-center" style="width: 50%">
         <div class="maj-head-box d-flex justify-content-center align-items-center">
           <div class="maj-head-dash row d-flex justify-content-center align-items-center">
             <div id="left-logo" class="col-sm justify-content-center" style="border-right: solid #4d4d4d 1px">
@@ -17,11 +17,11 @@
         </div>
       </div>
 
-      <div class="menu-button col-3">
-        <h5 class="justify-content-center align-items-center">Home</h5>
+      <div class="menu-button" style="width: 25%">
+        <h5 class="justify-content-center align-items-center"><%= link_to "Home", path_root do%>Home<% end %></h5>
       </div>
 
-      <div class="menu-button col-3">
+      <div class="menu-button" style="width: 25%">
         <h5 class="justify-content-center align-items-center">Hall of Fame</h5>
       </div>
     </div>
