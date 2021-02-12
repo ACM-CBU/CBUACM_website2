@@ -115,3 +115,11 @@
  	border-radius: 5px;
  	background-color: #e6e6e6;
  }
+
+ .active {
+   z-index: 50;
+ }
+
+ .carousel-item-next{
+   z-index: 49;
+ }
